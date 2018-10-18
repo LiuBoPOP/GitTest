@@ -1,3 +1,4 @@
 Git is a distribute versional control system.
 Git is free software.
 Git is a good tools for versional conrol.
+这是一个本地仓库创建的测试用的Git管理。
