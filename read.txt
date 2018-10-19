@@ -3,4 +3,4 @@ Git is free software.
 Git is a good tools for versional conrol.
 这是一个本地仓库创建的测试用的Git管理。
 再一次对read进行修改 添加新的内容仅供演练。
-1234567890
+1234567890987654321
